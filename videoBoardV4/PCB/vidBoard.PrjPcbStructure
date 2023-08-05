@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ts2068BoardTop.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=ts2068BoardTop.SchDoc|Designator=U_Buffers|SchDesignator=U_Buffers|FileName=Buffers.schdoc|SymbolType=Normal|RawFileName=Buffers.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=ts2068BoardTop.SchDoc|Designator=U_Peripherals|SchDesignator=U_Peripherals|FileName=Peripherals.SchDoc|SymbolType=Normal|RawFileName=Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=ts2068BoardTop.SchDoc|Designator=U_ts2068Interface|SchDesignator=U_ts2068Interface|FileName=ts2068Interface.SchDoc|SymbolType=Normal|RawFileName=ts2068Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
