@@ -1,1 +1,2 @@
-
+The ZIP file contains all of the files required for the video board FPGA. You need to install the Efinix tool set in order to compile and program the FPGA.
+Instructions for doing this can be found on the web.
