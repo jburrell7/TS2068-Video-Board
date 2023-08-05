@@ -1,1 +1,4 @@
-
+This is the first production version of the TS2068 video board. It is archived here for historical purposes. It is highly recommended that 
+  V4 be used since it fixes some minor mechanical issues and is designed for better manufacturablity.
+The PCB directory contains the Altium Circuit Studio design files for the PCB.
+The \Default Configuration\Outputs directory contains the Gerber and drill files for fabricating the PCB
